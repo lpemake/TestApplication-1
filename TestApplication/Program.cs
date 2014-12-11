@@ -14,7 +14,11 @@ namespace TestApplication
             Console.WriteLine(MathLibrary.MathUtilities.Add(3, 4));
             Console.WriteLine(MathLibrary.MathUtilities.Add(3, 4));
             Console.WriteLine(MathLibrary.MathUtilities.Divide(3, 4));
+
             Console.WriteLine(MathLibrary.MathUtilities.Multiply(3, 4));
+
+            Console.WriteLine(MathLibrary.MathUtilities.Subtract(3, 4));
+
         }
     }
 }
