@@ -38,7 +38,12 @@ namespace MathLibrary
         {
             return a / b;
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns></returns>
         public static double Subtract(double a, double b)
         {
             return a - b;
