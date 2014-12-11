@@ -9,6 +9,10 @@ namespace TestApplication
 {
     class Program
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Console.WriteLine(MathLibrary.MathUtilities.Add(3, 4));
