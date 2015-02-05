@@ -39,7 +39,7 @@ namespace MathLibrary
             return a / b;
         }
         /// <summary>
-        /// 
+        /// Uusi kommentti
         /// </summary>
         /// <param name="a"></param>
         /// <param name="b"></param>
